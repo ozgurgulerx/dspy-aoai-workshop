@@ -16,6 +16,17 @@
 ![Jupyter Notebook percentage](https://img.shields.io/github/languages/top/ozgurgulerx/dspy-aoai-workshop?label=jupyter%20notebook)
 
 ---
+## 📑 Table of Contents
+- [Workshop Overview](#workshop-overview)
+- [About DSPy](#about-dspy)
+- [What You’ll Learn](#what-youll-learn-in-this-workshop)
+- [Workshop Prerequisites](#workshop-prerequisites)
+- [Workshop Structure](#workshop-structure)
+- [Get Started](#get-started)
+- [Screenshots](#screenshots)
+- [FAQ](#frequently-asked-questions)
+- [Feedback and Contributions](#feedback-and-contributions)
+---
 
 ## 🎯 **Workshop Overview**
 
