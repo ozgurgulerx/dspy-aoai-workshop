@@ -2,10 +2,6 @@
 
 # DSPy on AZURE OPENAI Workshop - Ozgur Guler, Data/AI CSA
 
-# DSPy AOAI Workshop
-
-# DSPy AOAI Workshop
-
 ![GitHub stars](https://img.shields.io/github/stars/ozgurgulerx/dspy-aoai-workshop)
 ![GitHub forks](https://img.shields.io/github/forks/ozgurgulerx/dspy-aoai-workshop)
 ![License](https://img.shields.io/github/license/ozgurgulerx/dspy-aoai-workshop)
