@@ -71,8 +71,10 @@ bash
 Copy code
 pip install -r requirements.txt
 Follow along with the Jupyter Notebooks provided.
-📢 Feedback and Contributions
+
+## 📢 **Feedback and Contributions**
 
 This workshop is a live project, and we’d love your feedback! Please feel free to open issues or contribute ideas to make it even better.
 
-Note: DSPy is a cutting-edge framework, and we're excited to explore this journey with you. Your insights are invaluable in shaping the future of LLM programming.
+> **Note**: DSPy is a cutting-edge framework, and we're excited to explore this journey with you. Your insights are invaluable in shaping the future of LLM programming.
+
