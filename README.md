@@ -17,15 +17,16 @@
 
 ---
 ## 📑 Table of Contents
-- [Workshop Overview](#workshop-overview)
-- [About DSPy](#about-dspy)
-- [What You’ll Learn](#what-youll-learn-in-this-workshop)
-- [Workshop Prerequisites](#workshop-prerequisites)
-- [Workshop Structure](#workshop-structure)
-- [Get Started](#get-started)
-- [Screenshots](#screenshots)
-- [FAQ](#frequently-asked-questions)
-- [Feedback and Contributions](#feedback-and-contributions)
+- [DSPy Theory](./content/0.dspy-theory.ipynb)
+- [Setting up DSPy for AOAI](./content/dspy-aoai-setup.ipynb)
+- [DSPy Evaluations](./content/dspy-evals.ipynb)
+- [DSPy Signatures & Modules](./content/dspy-signatures-modules.ipynb)
+- [DSPy RAG with AI Search](./content/dspy-rag-with-aisearch.ipynb)
+- [DSPy Optimiser Basics](./content/dspy-optimisers-basics.ipynb)
+- [DSPy Advanced Optimisers](./content/dspy-advanced-optimizers-miprov2.ipynb)
+- [DSPy with Agency](./content/dspy-with-agency.ipynb)
+- [DSPy Project01](./content/dspy-project01.ipynb)
+- [DSPy Project02](./content/dspy-project02.ipynb)
 ---
 
 ## 🎯 **Workshop Overview**
