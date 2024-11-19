@@ -18,7 +18,7 @@
 ---
 ## 📑 Table of Contents
 - [DSPy Theory](./content/0.dspy-theory.ipynb)
-- [Setting up DSPy for AOAI](./content/dspy-aoai-setup.ipynb)
+- [Setting up DSPy for AOAI](./content/setting-dspy-aoai.ipynb)
 - [DSPy Evaluations](./content/dspy-evals.ipynb)
 - [DSPy Signatures & Modules](./content/dspy-signatures-modules.ipynb)
 - [DSPy RAG with AI Search](./content/dspy-rag-with-aisearch.ipynb)
